@@ -1,58 +1,96 @@
-﻿# Crops (Zone 4, low maintenance)
+﻿# Crop Plan 2026
 
-Status: First pass for 2026 season.
+**Zone 4 · Northern Scandinavia · Heavy clay soil · Low-maintenance focus**
 
-## Priority crops (hardy, low maintenance)
-- Potatoes (Bed A, east side).
-- Carrots + parsnips (Bed B, east side). Option: add a narrow strip of beets/turnips if space allows.
-- Alliums (west side allium bed): shallots + garlic (sprouted indoors).
-- Brassicas (center brassica patch): cabbage, kale, broccoli, kohlrabi (small batch trial).
-- Greens (brassica patch only, small batch): spinach, lettuce (trial only).
-- Salad + herbs (trellis lidded beds): small amounts only.
+---
 
-## Crop notes by bed
+## Crop Overview
 
-### Bed A: Potatoes (1 x 5 m)
-- Use early to mid-season varieties to beat late summer disease.
-- Plant in rows 35–40 cm apart, 25–30 cm in-row.
-- Hill twice as plants grow.
-- Covering: insect net if beetle risk; deer/hare fence required.
+| Bed | Crops | Family | Area |
+|---|---|---|---|
+| Root Bed A (east) | Potatoes | Solanaceae | 1 × 5 m |
+| Root Bed B (east) | Carrots, parsnips (+ optional beet/turnip strip) | Apiaceae / Amaranthaceae | 1 × 5 m |
+| Brassica Bed (west) | Cabbage, kale, broccoli, kohlrabi; small greens trial | Brassicaceae | 2 × 5 m |
+| Allium Bed (west) | Shallots, garlic (spring-planted from indoor sprouts) | Amaryllidaceae | 2 × 2 m |
+| Trellis RB 1–3 (south) | Mâche, rocket, microgreen mixes | Various | 0.9 × 1.2 m × 3 |
 
-### Bed B: Carrots + Parsnips (1 x 5 m)
-- Deeply loosened soil is critical.
-- Mix a small amount of sand/compost into top 20 cm if possible.
-- Keep evenly moist for germination (2–3 weeks).
-- Use insect net against carrot fly.
+---
 
-### Trellis RB1–RB3 (0.9 x 1.2 m, lidded): Easy, fast salad + microgreens
-- Focus: mache, rocket, microgreen mixes.
-- Choose varieties that handle low maintenance gaps.
-- Lids help protect from pests, wind, and cold snaps.
+## Bed-by-Bed Notes
 
-### Brassica Patch (N-S, ~5 m long, slightly wider than path): Mixed trials
-- Mix of hardy crops in short rows:
-  - Brassicas: cabbage, kale, broccoli, kohlrabi (small batch).
-  - Greens: spinach, lettuce (small batch).
-  - Beets, turnips, rutabaga (if space allows).
-- Use netting for pest pressure.
+### Root Bed A — Potatoes (east, 1 × 5 m)
 
-### Allium Bed (west side): Shallots + Garlic
-- Sets/cloves (already sprouted indoors) for easier success.
-- Keep weed-free; alliums dislike competition.
+- Choose early to mid-season varieties to mature before late-blight pressure peaks.
+- Plant rows 35–40 cm apart, 25–30 cm spacing within the row.
+- Hill twice as foliage grows (draws soil up around stems to increase tuber yield).
+- Cover with insect netting if Colorado beetle is a local risk.
+- Deer/hare fencing required.
 
-## What we are NOT doing this year
-- Tomatoes
-- Legumes (peas, beans)
-- Zucchini / squash
+### Root Bed B — Carrots + Parsnips (east, 1 × 5 m)
 
-## Protection plan
-- All open beds: deer/hare fence and insect netting.
-- Lidded raised beds: lids remain on for insect control.
-- Check covers weekly to avoid overheating on warm days.
-- If maintenance gaps are likely, prioritize sturdier crops and keep covers secure.
+- Deeply loosened soil is critical — fork to 25–30 cm, do not turn wet clay.
+- Work a thin layer of sand and compost into the top 20 cm to improve tilth.
+- Keep evenly moist during germination (expect 2–3 weeks for carrots, longer for parsnips).
+- Cover with fine-mesh insect netting immediately after sowing against carrot fly.
+- **Optional strip:** If space allows along one edge, sow a narrow row of beets or turnips.
+- *Companion note:* This bed sits adjacent to the Allium Bed across the path — allium scent provides some additional carrot-fly deterrence.
 
-## Soil notes (extreme clay)
-- Heavy mulch and organic matter are essential.
-- Avoid deep tilling when wet.
-- Use manure and compost as topdressing, not mixed deep.
-- Mulch paths to reduce compaction.
+### Brassica Bed — Mixed Trials (west, 2 × 5 m)
+
+- Organise in short cross-rows: cabbage, kale, broccoli, kohlrabi (small batches of each).
+- Reserve one row for a **greens trial**: spinach and lettuce in a short section.
+- If space remains, add a row of beets, turnips, or rutabaga.
+- Net the entire bed against cabbage white butterfly and flea beetle.
+- Brassicas are heavy feeders — ensure generous compost topdressing before planting.
+
+### Allium Bed — Shallots + Garlic (west, 2 × 2 m)
+
+- **2026 plan:** Both crops are spring-planted from sets/cloves already sprouted indoors. This is a practical decision for the first season — sprouts are up and ready to go.
+- **Future seasons:** Garlic should move to **autumn planting** (October). Fall-planted garlic overwinters, establishes roots before spring, and produces significantly larger bulbs. Plan to plant 2027 garlic in October 2026.
+- Keep rigorously weed-free — alliums have shallow roots and cannot compete.
+- Minimal watering once established; reduce water as tops begin to yellow.
+
+### Trellis Raised Beds 1–3 (south, lidded, 0.9 × 1.2 m each)
+
+- Focus on fast, forgiving crops: mâche, rocket, microgreen mixes.
+- Choose varieties tolerant of intermittent neglect (important for low-maintenance gaps).
+- Lids stay on as default — they protect against pests, wind, and late cold snaps.
+- Ventilate by propping lids on warm days (>18 °C).
+
+---
+
+## What We Are Not Growing This Year
+
+| Crop | Reason |
+|---|---|
+| Tomatoes | Require greenhouse/tunnel in Zone 4; out of scope for year one |
+| Legumes (peas, beans) | Adding nitrogen fixers planned for year two as soil-building rotation |
+| Zucchini / squash | Space-hungry, frost-sensitive; better suited to expanded layout |
+
+> **Long-term note:** As the property develops toward agroforestry, legumes will become a key rotation crop for nitrogen fixation. Perennial options (e.g., sea buckthorn, currants, rhubarb) may also be introduced along the fence line in future seasons.
+
+---
+
+## Protection Summary
+
+| Measure | Covers |
+|---|---|
+| Deer/hare fencing | All open beds |
+| Insect netting | Root Bed A (beetle), Root Bed B (carrot fly), Brassica Bed (cabbage white) |
+| Lidded raised beds | Trellis RB 1–3 (pests, wind, cold) |
+
+- Check all covers weekly.
+- Ventilate nets and lids during sustained warm weather.
+- If maintenance gaps are expected, prioritise sturdier crops and leave covers secured.
+
+---
+
+## Soil Notes (Heavy Clay)
+
+- Annual topdressing of compost and well-rotted manure (3–5 cm) is essential.
+- Never till or dig when the soil is waterlogged — this destroys structure.
+- Apply organic matter as a surface layer; let worms incorporate it.
+- Mulch all paths with hay to reduce compaction and suppress weeds.
+- Over successive seasons, organic matter will gradually improve drainage and workability.
+
+> See [reference-guide.md](reference-guide.md) for expanded soil management guidance, pest identification, and companion planting details.

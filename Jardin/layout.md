@@ -1,49 +1,92 @@
-﻿# Layout (Top-Down Sketch)
+﻿# Garden Layout
 
-Status: First pass based on updated geometry.
-Date: 2026-03-13
+**Plot:** 6 m wide (south edge) × 10 m deep (north–south)
 
-## Known components and sizes (reset)
-- Full garden rectangle: 6 m (south side) x 10 m (east/west depth).
-- South side (SS) is the top edge in the plan view.
-- West side (WS): fence line along full length.
-- East side (ES): entrance/open access.
-- Trellis spans the full 6 m of the south side, set 2 m in from SS.
-- From trellis northward: 3 long beds, all 5 m long (N-S).
-  - West side: 2 beds, each ~1 m wide (Root Beds A and B), with a small gap between them.
-  - East side: 1 bed, ~2 m wide (Brassica Bed).
-- A 2 m wide path splits west beds from east bed.
-- Additional bed: 2 m x 2 m on the east side, directly north of the long east bed (Allium Bed).
-- Soil: extreme clay, to be heavily mulched and topped with manure/compost.
+---
 
-## Bed uses (2026 plan)
-- Root Bed A (west, 1 m x 5 m): potatoes.
-- Root Bed B (west, 1 m x 5 m): carrots + parsnips. Optional narrow strip for beets/turnips if space allows.
-- Brassica Bed (east, 2 m x 5 m): mixed brassica trials (cabbage, kale, broccoli, kohlrabi) with a small greens test strip if desired.
-- Allium Bed (east, 2 m x 2 m): shallots + garlic (sprouted indoors).
-- Trellis beds (south, 3 lidded raised beds): mache, rocket, microgreen mixes (easy/fast, low maintenance).
+## Orientation
 
-## Top-down sketch (not to scale)
+| Edge | Feature |
+|---|---|
+| **South (SS)** | Front of the garden — trellis and raised beds |
+| **North** | Rear — 1 m buffer / access path |
+| **West (WS)** | Fence line (boundary) |
+| **East (ES)** | Entrance and open access |
 
+---
 
+## Bed Summary
 
-┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐
-│ Root Bed A       │  │ Path (2 m)       │  │ Brassica Bed     │
-│ Potatoes         │  │ N-S, 5 m long    │  │ Brassicas + trial│
-└──────────────────┘  └──────────────────┘  └──────────────────┘
-  (small gap)
-┌──────────────────┐                        ┌──────────────────┐
-│ Root Bed B       │                        │ Allium Bed (2x2) │
-│ Carrot/Parsnip   │                        │ Shallot/Garlic   │
-└──────────────────┘                        └──────────────────┘
+| Bed | Position | Size | Crops (2026) |
+|---|---|---|---|
+| Brassica Bed | West, main zone | 2 × 5 m | Cabbage, kale, broccoli, kohlrabi, greens trial |
+| Allium Bed | West, north of Brassica | 2 × 2 m | Shallots, garlic |
+| Root Bed A | East, main zone | 1 × 5 m | Potatoes |
+| Root Bed B | East, main zone | 1 × 5 m | Carrots, parsnips (+ optional beet/turnip strip) |
+| Trellis RB 1–3 | South zone, lidded | 0.9 × 1.2 m each | Mâche, rocket, microgreens |
 
-┌────────────────────────────────────────────────────────────────────────┐
-│ South Side (SS)                                                        │
-│ Trellis spans full 6 m width; trellis line is 2 m in from SS           │
-└────────────────────────────────────────────────────────────────────────┘
+**Central path:** 2 m wide, running north–south between the west and east bed columns.
 
-## Usage key
-- R (Root Beds A/B): potatoes; carrots/parsnips; optional beets/turnips strip.
-- B (Brassica Bed): brassicas + small greens test strip.
-- A (Allium Bed): shallots + garlic.
-- T (Trellis beds): mache, rocket, microgreens.
+---
+
+## Dimensions & Zoning (north → south)
+
+```
+Zone              Depth    Contents
+──────────────────────────────────────────────
+North buffer      1 m      Access path / turning space
+Allium zone       2 m      Allium Bed (west side only)
+Main bed zone     5 m      Brassica (west) · Path · Root A + B (east)
+Trellis zone      2 m      Trellis line + 3 lidded raised beds
+──────────────────────────────────────────────
+Total            10 m
+```
+
+---
+
+## Top-Down Plan (text)
+
+```
+        WEST (fence)                                    EAST (entrance)
+        ◄── 2 m ──►  ◄── 2 m ──►  ◄─ 1 m ─►◄─ 1 m ─►
+
+   N    ┌───────────┐
+   ↑    │  Allium   │              (open area)
+ 2 m    │  Bed      │
+   ↓    │  2 × 2 m  │
+        ├───────────┤  ┌──────────┐┌────────┐┌────────┐
+   ↑    │           │  │          ││ Root   ││ Root   │
+   │    │ Brassica  │  │   PATH   ││ Bed A  ││ Bed B  │
+   │    │ Bed       │  │          ││        ││        │
+ 5 m    │ 2 × 5 m  │  │  2 m     ││potato  ││carrot  │
+   │    │           │  │  wide    ││1 × 5 m ││parsnip │
+   │    │ cabbage,  │  │          ││        ││1 × 5 m │
+   │    │ kale etc. │  │          ││        ││        │
+   ↓    └───────────┘  └──────────┘└────────┘└────────┘
+        ┌─────────────────────────────────────────────┐
+        │       TRELLIS  (spans full 6 m width)       │
+ 2 m    │   [RB 1]       [RB 2]       [RB 3]          │
+        │   mâche        rocket       microgreens     │
+        └─────────────────────────────────────────────┘
+   S
+```
+
+> See also: [layout.svg](layout.svg) for a scaled visual diagram, or
+> [layout-diagram.md](layout-diagram.md) for a Mermaid-rendered version.
+
+---
+
+## Soil & Path Notes
+
+- **Soil type:** Extreme clay — all beds receive 3–5 cm compost/manure topdressing annually.
+- **Paths:** Mulched heavily with hay to suppress weeds and reduce compaction.
+- **Drainage:** Monitor for waterlogging in spring; never work soil when saturated.
+
+---
+
+## Protection
+
+- All open beds enclosed with **deer/hare fencing**.
+- **Insect netting** over Root Bed A (potato beetle), Root Bed B (carrot fly), and Brassica Bed (cabbage white).
+- Trellis raised beds use **lids** for pest, wind, and cold-snap protection.
+- Check all covers weekly — ventilate on warm days to prevent overheating.
