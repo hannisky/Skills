@@ -25,6 +25,7 @@ This garden is the opening phase of a broader property vision that may expand in
 | [layout.svg](layout.svg) | Scaled top-down visual diagram |
 | [layout-diagram.md](layout-diagram.md) | Mermaid-rendered layout diagram |
 | [crops.md](crops.md) | Crop list, varieties, and per-bed notes |
+| [march-april-2026.md](march-april-2026.md) | **Current phase** — consolidated March & April action summary |
 | [calendar-2026.md](calendar-2026.md) | Week-by-week timeline, March–November |
 | [harvest-calendar.md](harvest-calendar.md) | Expected harvest windows per crop |
 | [tasks.md](tasks.md) | Action checklist by phase |
