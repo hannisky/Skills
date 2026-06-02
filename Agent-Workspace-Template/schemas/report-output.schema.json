@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ReportOutput",
+  "type": "object",
+  "required": ["title", "generated_at", "summary", "sections"],
+  "properties": {
+    "title": { "type": "string" },
+    "generated_at": { "type": "string", "format": "date-time" },
+    "summary": { "type": "string" },
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["heading", "content"],
+        "properties": {
+          "heading": { "type": "string" },
+          "content": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

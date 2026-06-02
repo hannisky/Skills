@@ -1,0 +1,12 @@
+{
+  "version": "0.1.0",
+  "agents": [
+    {
+      "name": "report-orchestrator",
+      "role": "Coordinates end-to-end report run",
+      "uses": ["03-workflows/templates/workflow-template.md", "00-rulebook/command-contract.md"],
+      "outputs": ["08-output/reports/"],
+      "status": "template"
+    }
+  ]
+}

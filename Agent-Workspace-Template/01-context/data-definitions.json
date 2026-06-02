@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "entities": [
+    {
+      "name": "transaction",
+      "required_fields": ["id", "date", "amount", "currency", "status"],
+      "notes": "Add field constraints and mapping notes here"
+    }
+  ],
+  "quality_rules": [
+    "Add uniqueness and reconciliation rules"
+  ]
+}
